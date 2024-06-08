@@ -1,0 +1,55 @@
+.mainTable {
+    border-radius: 4px;
+    border: 1px solid rgb(200, 200, 200);
+    margin-left: auto;
+    margin-right: auto;
+    padding:4px;
+    border-spacing: 10px;
+}
+
+.mainTableHead {
+    background-color: rgb(230, 230, 230);
+}
+
+.connectButton {
+    border-radius: 4px;
+    background-color:  rgb(60, 121, 179);
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    margin : 4px;
+}
+
+.errorText {
+    color: red;
+}
+
+.swapTableCell {
+    border-radius: 4px;
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.swapNumberBox {
+    font-size: 14px;
+    padding: 10px;
+    margin : 4px;
+}
+
+.swapButton {
+    border-radius: 4px;
+    background-color:  rgb(60, 121, 179);
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    margin : 4px;
+}
+
+.poolsRow {
+    border-bottom: 1px solid black; 
+}
+
+.balancesRow {
+    border-bottom: 1px solid black; 
+}
+
